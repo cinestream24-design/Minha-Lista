@@ -1,9 +1,9 @@
-#EXTM3U
-#EXTINF:-1 group-title="Esportes",SporTV
-https://40cc3e0132e6a41c724a0e2612b1577f.s25-cloudfront-net.lat/stream/d31d551d0a83657c0f786fd3eeb60f6d/error.txt
-
-#EXTINF:-1 group-title="Esportes",Espn
+##EXTM3U 
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" tvg-id="ESPN.br",Espn
 https://40cc3e0132e6a41c724a0e2612b1577f.s25-cloudfront-net.lat/stream/3bd423b529c0c3461a7fafd03d758180/error.txt
+
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" tvg-id="SporTV.br",Sportv
+https://40cc3e0132e6a41c724a0e2612b1577f.s25-cloudfront-net.lat/stream/d31d551d0a83657c0f786fd3eeb60f6d/error.txt
 
 #EXTINF:-1 group-title="Filmes e Séries",Megapix 
 https://40cc3e0132e6a41c724a0e2612b1577f.s25-cloudfront-net.lat/stream/44a174a921d057f561a6ee4f5da74788/error.txt
